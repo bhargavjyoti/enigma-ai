@@ -1,7 +1,7 @@
 "use client";
 
 import { cn } from "@/lib/utils";
-import { ImageIcon, LayoutDashboard, MessageSquare, Music, Settings, VideoIcon } from "lucide-react";
+import { Code, ImageIcon, LayoutDashboard, MessageSquare, Music, Settings, VideoIcon } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation"
@@ -40,7 +40,7 @@ const routes = [
   },
   {
     label: "Code Generation",
-    icon: ImageIcon,
+    icon: Code,
     href: "/code",
     color: "text-green-700"
   },
