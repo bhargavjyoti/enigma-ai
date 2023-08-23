@@ -5,7 +5,7 @@ A powerfull AI application capable of having conversations and generating code, 
 ## Screenshot
 <img src="./public/website-screenshot.png" />
 
-[LIVE LINK](https://enigma-ai.vercel.app)
+[LIVE LINK](https://enigma-ai-delta.vercel.app)
 
 Features:
 
