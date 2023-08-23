@@ -21,7 +21,6 @@ import { zodResolver } from "@hookform/resolvers/zod"
 import { amountOptions, formSchema, resolutionOptions } from "./constants"
 import { useRouter } from "next/navigation"
 import { useState } from "react"
-import { cn } from "@/lib/utils"
 import Image from "next/image"
 
 const ImagePage = () => {

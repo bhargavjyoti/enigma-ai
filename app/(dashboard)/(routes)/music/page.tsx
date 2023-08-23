@@ -13,7 +13,6 @@ import { zodResolver } from "@hookform/resolvers/zod"
 import { Button } from "@/components/ui/button"
 import { useRouter } from "next/navigation"
 import { useState } from "react"
-import { ChatCompletionRequestMessage } from "openai"
 import Empty from "@/components/Empty"
 import Loader from "@/components/Loader"
 
