@@ -45,7 +45,7 @@ const tools = [
 
 
 
-const page = () => {
+export default function HomePage(){
   const router = useRouter();
 
 
@@ -73,5 +73,3 @@ const page = () => {
     </>
   )
 }
-
-export default page
