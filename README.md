@@ -2,6 +2,9 @@
 
 A powerfull AI application capable of having conversations and generating code, images, music and videos.
 
+## Screenshot
+<img src="./public/assets/website-screenshot.png" />
+
 [LIVE LINK](https://enigma-ai.vercel.app)
 
 Features:
