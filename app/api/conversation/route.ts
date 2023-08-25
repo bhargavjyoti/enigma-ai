@@ -11,7 +11,7 @@ const openai = new OpenAIApi(configuration);
 // Instructions
 const instructionMessage: ChatCompletionRequestMessage = {
   role: "system",
-  content: "You are a code generator. You must answer in markdown code snippets. Use code comments for explanations."
+  content: "You are a chat bot. Answer the questions ethically and in plain text"
 }
 
 export async function POST(
