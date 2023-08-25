@@ -18,9 +18,7 @@ const LandingHero = () => {
                             strings: [
                                 "Code.",
                                 "Conversations.",
-                                "Music.",
-                                "Images.",
-                                "Videos."
+                                "Images."
                             ],
                             autoStart: true,
                             loop: true
